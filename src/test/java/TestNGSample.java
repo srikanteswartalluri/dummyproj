@@ -11,6 +11,12 @@ public class TestNGSample {
 
     @Test
     public void test2() {
+        System.out.println("test2");
         Assert.fail();
+    }
+    
+    @Test
+    public void test3() {
+       System.out.println("test3");
     }
 }
