@@ -9,6 +9,13 @@ public class TestNGSample {
 
     }
 
+
+    @Test
+    public void test4() {
+        System.out.println("test4");
+
+    }
+
     @Test
     public void test2() {
         System.out.println("test2");
