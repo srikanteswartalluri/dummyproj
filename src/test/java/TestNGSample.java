@@ -2,7 +2,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestNGSample {
-
+//adding a comment
     @Test
     public void test1() {
         System.out.println("test1");
