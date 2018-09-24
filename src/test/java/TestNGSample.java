@@ -15,7 +15,7 @@ public class TestNGSample {
         System.out.println("test4");
 
     }
-
+//one comment
     @Test
     public void test2() {
         System.out.println("test2");
